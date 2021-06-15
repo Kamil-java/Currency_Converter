@@ -1,0 +1,15 @@
+pl\bak\Currency_converter\uri\body_for_request\DataInArray.class
+pl\bak\Currency_converter\util\ValueCalculate$1.class
+pl\bak\Currency_converter\model\CurrencyCode.class
+pl\bak\Currency_converter\CurrencyConverterApplication.class
+pl\bak\Currency_converter\util\BodyFromApi.class
+pl\bak\Currency_converter\error\handler\ErrorHandler.class
+pl\bak\Currency_converter\uri\NbpPathApi.class
+pl\bak\Currency_converter\util\DataRequestMapper.class
+pl\bak\Currency_converter\util\ValueCalculate.class
+pl\bak\Currency_converter\model\Currency.class
+pl\bak\Currency_converter\uri\body_for_request\DataSingleObject.class
+pl\bak\Currency_converter\domain\CurrencyService.class
+pl\bak\Currency_converter\uri\body_for_request\DataInMultiArray.class
+pl\bak\Currency_converter\domain\CurrencyController.class
+pl\bak\Currency_converter\uri\body_for_request\DataArrayObject.class
